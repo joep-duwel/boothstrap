@@ -1,0 +1,93 @@
+.background {
+    background-image: url(/pubic/img/counts-bg.png);
+}
+.about-jpg{
+    width: 500px;
+}
+.hero{
+    width: 500px; 
+}
+a, .a {
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+.active{
+    text-decoration: underline;
+}
+
+.nav {
+    text-align: right;
+    padding-right: 20px;
+    display: flex;
+    
+}
+
+.techie {
+    text-align: center;
+    color: white;
+}
+
+.nav .nav-item {
+    margin-left: 10px;
+    
+}
+.get-started{
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.text-center{
+align-items: center;
+}
+
+.text-color{
+    color: white;
+}
+h{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    
+}
+sm-text{
+    font-size: x-small;
+}
+.cen{
+    text-align: center;
+}
+.bi{
+    font-size: 50px;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.text-ce{
+    color: white;
+    align-items: center;
+    align-content: center;
+}
+.text-about{
+    align-self: center;
+}
+.about-text{
+    padding: 5px;
+}
+.alert{
+    background-color: skyblue;
+}
+.service, .testimonials{
+    background-color: rgb(243, 241, 241);
+}
+.card-body{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+    text-align: center;
+}
+.Que{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
