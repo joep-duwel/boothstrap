@@ -45,12 +45,12 @@ align-items: center;
 .text-color{
     color: white;
 }
-h{
+.h{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large;
     
 }
-sm-text{
+.sm-text{
     font-size: x-small;
 }
 .cen{
@@ -101,4 +101,10 @@ sm-text{
 .bg-purple{
     background-color: #7B27D8;
     color: aliceblue;
+}
+.bg-whitelight{
+    background-color: rgb(219, 216, 216);
+}
+.mar1{
+    margin: 10px;
 }
